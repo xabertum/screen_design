@@ -14,8 +14,13 @@
     float: right !important;
     font-size: 1.5em;
     font-variant: small-caps;
+
 }
 
+a {
+    color: white !important;
+
+}
 
 /*****************************/
 
@@ -23,11 +28,21 @@
 .wrapper {
     position: relative;
 }
-#header_title {
-    position: absolute;
+.header_title {
+    position: fixed;
     left: 30%;
-    top: 50%;
+    top: 40%;
     font-family: rokkitt;
-    font-size: 6em;
+    font-size: 5.5em;
     color: white;
+
+}
+
+#header_subtitle {
+    left: 15%;
+    top: 55%;
+    font-family: rokkitt;
+    font-size: 0.5em;
+    color: white;
+
 }

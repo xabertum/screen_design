@@ -29,7 +29,7 @@ a {
     position: relative;
 }
 .header_title {
-    position: fixed;
+    position: absolute;
     left: 30%;
     top: 40%;
     font-family: rokkitt;

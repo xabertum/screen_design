@@ -1,10 +1,33 @@
+@font-face {
+    font-family: rokkitt;
+    src: url(../fonts/rokkitt/Rokkitt-Bold.otf);
+}
+
+
+
 .container-fluid {
     padding: 0 !important;
 }
 
 .navbar-nav {
-    font-family: Myriad pro;
+    font-family: rokkkitt;
     float: right !important;
+    font-size: 1.5em;
+    font-variant: small-caps;
 }
 
 
+/*****************************/
+
+
+.wrapper {
+    position: relative;
+}
+#header_title {
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    font-family: rokkitt;
+    font-size: 6em;
+    color: white;
+}

@@ -15,7 +15,7 @@
 }
 
 a {
-    color: white !important;
+    color: blue !important;
 }
 
 
@@ -23,6 +23,7 @@ a {
 
 .wrapper {
     position: relative;
+
 }
 
 .header_title {
@@ -53,4 +54,12 @@ a {
     top: 96.8%;
     font-family: rokkkit;
     font-size: 1.4em;
+}
+
+
+/*************************************/
+
+#wrapper_section2 {
+    width: 50%;
+    margin: 100px auto 0px;
 }

@@ -17,6 +17,9 @@
 a {
     color: blue !important;
 }
+.navbar-fixed-top {
+    position: absolute !important;
+}
 
 
 /*****************************/

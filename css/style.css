@@ -3,8 +3,6 @@
     src: url(../fonts/rokkitt/Rokkitt-Bold.otf);
 }
 
-
-
 .container-fluid {
     padding: 0 !important;
 }
@@ -14,21 +12,20 @@
     float: right !important;
     font-size: 1.5em;
     font-variant: small-caps;
-
 }
 
 a {
     color: white !important;
-
 }
 
-/*****************************/
 
+/*****************************/
 
 .wrapper {
     position: relative;
 
 }
+
 .header_title {
     position: absolute;
     left: 30%;
@@ -45,5 +42,4 @@ a {
     font-family: rokkitt;
     font-size: 0.5em;
     color: white;
-
 }

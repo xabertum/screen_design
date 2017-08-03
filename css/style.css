@@ -23,17 +23,15 @@ a {
 
 .wrapper {
     position: relative;
-
 }
 
 .header_title {
     position: absolute;
-    left: 30%;
+    left: 33%;
     top: 40%;
     font-family: rokkitt;
     font-size: 5.5em;
     color: white;
-
 }
 
 #header_subtitle {
@@ -42,4 +40,17 @@ a {
     font-family: rokkitt;
     font-size: 0.5em;
     color: white;
+}
+
+#header_button {
+    background-color: #e74c3c;
+    border: 7px solid rgba(250, 250, 250, 0.5);
+    padding: 15px 62px;
+    color: white;
+    position: absolute;
+    left: 45%;
+    z-index: 1;
+    top: 96.8%;
+    font-family: rokkkit;
+    font-size: 1.4em;
 }

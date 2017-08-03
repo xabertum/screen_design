@@ -15,7 +15,7 @@
 }
 
 a {
-    color: blue !important;
+    color: white !important;
 }
 
 .navbar-fixed-top {
@@ -81,10 +81,21 @@ a {
     font-weight: bold;
 }
 
+.row {
+    padding: 0 10% 0 10%;
+}
+
 .col-md-4.col-lg-4 > p {
     padding: 15%;
+    text-align: justify;
+
+}
 
 
-
+.col-md-4.col-lg-4 i {
+    display: block;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 15%;
 }
 

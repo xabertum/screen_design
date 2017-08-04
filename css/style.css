@@ -67,6 +67,8 @@ a {
     margin: 100px auto 0px;
 }
 
+
+
 #section2_title {
     font-size: 3em;
     color: #e74c3c;
@@ -83,6 +85,7 @@ a {
 
 .row {
     padding: 0 10% 0 10%;
+    width: 100%;
 }
 
 .col-md-4.col-lg-4 > p {
@@ -97,5 +100,6 @@ a {
     text-align: center;
     font-size: 4em;
     padding-top: 15%;
+    color: #e74c3c;
 }
 

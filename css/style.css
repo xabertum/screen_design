@@ -100,7 +100,7 @@ a {
 }
 
 .row.img {
-    width: 50%;
+    width: 75%;
     margin: 0 auto;
 }
 
@@ -108,3 +108,14 @@ a {
     padding: 5%;
 }
 
+.row.img > div > img {
+width: 100%;
+
+}
+
+
+
+.body_wrapper {
+    max-width: 75%;
+    margin: 0 auto;
+}

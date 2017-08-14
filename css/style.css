@@ -28,7 +28,6 @@ a {
 .wrapper {
     position: relative;
     text-align: center;
-    display: inline-block;
 }
 
 .body_wrapper {
@@ -121,3 +120,7 @@ width: 100%;
 
 
 
+
+hr {
+    max-width: 50%;
+}

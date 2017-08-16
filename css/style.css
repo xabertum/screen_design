@@ -108,9 +108,8 @@ a {
     margin: 0 auto;
 }
 
-.row.img2 {
-    width: 75%;
-    margin: 0 auto;
+#img_section {
+    width: 100%;
     margin-bottom: 10%;
 }
 

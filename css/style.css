@@ -57,10 +57,10 @@ a {
     border: 7px solid rgba(250, 250, 250, 0.5);
     padding: 15px 62px;
     color: white;
-    position: relative;
     z-index: 1;
     font-family: rokkkit;
     font-size: 1.4em;
+
 }
 
 
@@ -108,6 +108,12 @@ a {
     margin: 0 auto;
 }
 
+.row.img2 {
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 10%;
+}
+
 .col-md-6.col-lg-6 {
     padding: 5%;
 }
@@ -124,18 +130,34 @@ hr {
 /*****************************/
 
 .wrapper_contact {
-    max-width: 50%;
+    width: 50%;
     margin: 0 auto;
+    margin-top: 100px
+}
+
+ .text-center > h1 {
+    color: #e74c3c;
+    margin-top: 100px;
+
 }
 
 .wrapper_contact>form>input {
-    margin-left:
+    padding: 2%;
     background-color: #e4e8e8;
-    width: 44%;
+    width: 46.9%;
+    border: none;
+
+}
+
+#email {
+
+    margin-left: 5%;
+
 }
 
 .wrapper_contact>form>textarea {
     margin-top: 5%;
     background-color: #e4e8e8;
     width: 100%;
+    border: none;
 }

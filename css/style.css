@@ -112,19 +112,30 @@ a {
     padding: 5%;
 }
 
-.row.img > div > img {
-width: 100%;
-
+.row.img>div>img {
+    width: 100%;
 }
 
 hr {
     max-width: 50%;
 }
 
+
 /*****************************/
 
+.wrapper_contact {
+    max-width: 50%;
+    margin: 0 auto;
+}
 
+.wrapper_contact>form>input {
+    margin-left:
+    background-color: #e4e8e8;
+    width: 44%;
+}
 
-
-
-
+.wrapper_contact>form>textarea {
+    margin-top: 5%;
+    background-color: #e4e8e8;
+    width: 100%;
+}
